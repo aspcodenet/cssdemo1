@@ -1,0 +1,19 @@
+body{
+    font: 100% Courier New;
+    margin: 20px;
+    line-height: 26px;
+    background-color: #000000;    
+}
+
+header {
+    color: #84c754;
+    padding: 15px;    
+}
+nav, aside, section,footer {
+    padding: 10px;
+    color: #84c754;    
+}
+a{
+    text-decoration: none;
+    color: #84c754;    
+}
